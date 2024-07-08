@@ -1,0 +1,8 @@
+Inventory
+29995.05
+Payroll
+80000.37
+Marketing
+20000.50
+Insurance
+9986.63

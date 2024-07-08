@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TriangleFileInput
+comment1.params=a\ b\ c
+comment1.target=double\ semiPerim(double,\ double,\ double)
+comment1.text=\n\ \n\ methods\:\n\ semiperimeter\ -\ \ calculates\ the\ semiperimeter\ of\ a\ triangle\n\ \n\ heronsForm\ -\ \ \ \ \ calculates\ the\ area\ of\ a\ triangle\ using\ Heron's\ Formula\n\ \n\ main\ -\ \ \ \ \ \ \ \ \ \ \ prompt\ user\ for\ input\ and\ read\ input\ into\ vars\ a,\ b,\ c\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ calculate\ the\ semiperimeter\ and\ assign\ it\ to\ variable\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ calculate\ area\ using\ heronForm\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ print\ area\n\ \n
+comment2.params=a\ b\ c\ s
+comment2.target=double\ heronsForm(double,\ double,\ double,\ double)
+comment3.params=
+comment3.target=void\ main()
+numComments=4
